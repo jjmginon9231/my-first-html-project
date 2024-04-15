@@ -1,0 +1,21 @@
+html {
+    font-size: 20px;
+}
+
+body {
+    min-height: 100vh;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 1.5rem;
+    border-left: 2px solid #131313;
+    border-right: 2px solid #131313;
+}
+
+th,
+td,
+caption {
+    border: 2px solid #131313;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: separate;
+    padding: 0.5rem;
+}
