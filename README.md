@@ -27,7 +27,7 @@ This project was an exciting first step into the world of web development. I fac
 
 ## Acknowledgments
 
-- Dave Gray, for the comprehensive [HTML Full Course for Beginners](https://www.youtube.com/watch?v=mJgBOIoGihA)
+- [Dave Gray](https://github.com/gitdagray), for the comprehensive [HTML Full Course for Beginners](https://www.youtube.com/watch?v=mJgBOIoGihA)
 - [freeCodeCamp.org](https://www.freecodecamp.org/news/learn-html-beginners-course/), for providing a platform to learn and practice coding
 - My peers and mentors who provided feedback and support
 
