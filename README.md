@@ -1,5 +1,7 @@
 # My First HTML Project
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c5bfaed1-321e-412d-a4f4-affc372a2645/deploy-status)](https://app.netlify.com/sites/my-first-html-project-website/deploys)
+
 Welcome to my first HTML project! This project is inspired by the [HTML Project for Beginners](https://www.youtube.com/watch?v=mJgBOIoGihA) tutorial by Dave Gray.
 
 ## Project Description
